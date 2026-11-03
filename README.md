@@ -40,5 +40,5 @@
 *   **Внимание:** Тепловая карта cross-attention подтверждает, что при генерации русских слов модель корректно фокусируется на соответствующих английских токенах.
 
 ## Ссылки
-*   [Ноутбук в Google Colab](https://colab.research.google.com/drive/1dr9G70MLcQzxWoLL3YBd8o9waroC4wvK?hl=ru#scrollTo=D8g03pgVskw9
+*   [Ноутбук в Google Colab](https://colab.research.google.com/drive/1dr9G70MLcQzxWoLL3YBd8o9waroC4wvK?usp=sharing
   
