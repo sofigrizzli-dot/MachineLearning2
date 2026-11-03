@@ -1,0 +1,201 @@
+﻿model,term,n_words,n_tokens,tokens,is_word_level
+MarianMT,access to modern energy services,5,5,▁access ▁to ▁modern ▁energy ▁services,True
+MarianMT,renewable energy,2,2,▁renewable ▁energy,True
+MarianMT,renewable energy technologies,3,3,▁renewable ▁energy ▁technologies,True
+MarianMT,technology transfer,2,2,▁technology ▁transfer,True
+MarianMT,hardware,1,1,▁hardware,True
+MarianMT,human capital,2,2,▁human ▁capital,True
+MarianMT,know-how,1,3,▁know - how,False
+MarianMT,adapt,1,1,▁adapt,True
+MarianMT,low-carbon innovation centres,3,5,▁low - carbon ▁innovation ▁centres,False
+MarianMT,solar PV,2,3,▁solar ▁P V,False
+MarianMT,traditional fuels,2,2,▁traditional ▁fuels,True
+MarianMT,energy security,2,2,▁energy ▁security,True
+MarianMT,RD&D,1,4,▁R D & D,False
+MarianMT,government procurement,2,2,▁government ▁procurement,True
+MarianMT,public intervention,2,2,▁public ▁intervention,True
+MarianMT,price distortion,2,2,▁price ▁distortion,True
+MarianMT,feed-in tariffs,2,4,▁feed - in ▁tariffs,False
+MarianMT,international financial mechanisms,3,3,▁international ▁financial ▁mechanisms,True
+MarianMT,energy efficiency,2,2,▁energy ▁efficiency,True
+MarianMT,effective transfer,2,2,▁effective ▁transfer,True
+MarianMT,technological progress,2,2,▁technological ▁progress,True
+MarianMT,roadmap,1,1,▁roadmap,True
+MarianMT,niche,1,1,▁niche,True
+MarianMT,business-as-usual scenario,2,7,▁business - as - us ual ▁scenario,False
+MarianMT,emissions intensity,2,2,▁emissions ▁intensity,True
+MarianMT,mitigate climate change,3,3,▁mitigate ▁climate ▁change,True
+MarianMT,global warming,2,2,▁global ▁warming,True
+MarianMT,cost of renewable energy,4,4,▁cost ▁of ▁renewable ▁energy,True
+MarianMT,solar photovoltaic systems,3,3,▁solar ▁photovoltaic ▁systems,True
+MarianMT,grid parity,2,2,▁grid ▁parity,True
+MarianMT,turbine,1,1,▁turbine,True
+MarianMT,wind power,2,2,▁wind ▁power,True
+MarianMT,installed power capacity,3,3,▁installed ▁power ▁capacity,True
+MarianMT,reasonable cost,2,2,▁reasonable ▁cost,True
+MarianMT,cost of capital,3,3,▁cost ▁of ▁capital,True
+MarianMT,crowdfunding,1,2,▁crowd funding,False
+MarianMT,institutional investors,2,2,▁institutional ▁investors,True
+MarianMT,investment in renewable energy,4,4,▁investment ▁in ▁renewable ▁energy,True
+MarianMT,public policy,2,2,▁public ▁policy,True
+MarianMT,economic benefits,2,2,▁economic ▁benefits,True
+MarianMT,direct and indirect jobs,4,4,▁direct ▁and ▁indirect ▁jobs,True
+MarianMT,depletion of resources,3,3,▁depletion ▁of ▁resources,True
+MarianMT,greenhouse gases,2,2,▁greenhouse ▁gases,True
+MarianMT,atmospheric CO2 concentration,3,4,▁atmospheric ▁CO 2 ▁concentration,False
+MarianMT,decentralisation,1,3,▁de central isation,False
+MarianMT,energy storage technologies,3,3,▁energy ▁storage ▁technologies,True
+MarianMT,leapfrog,1,3,▁leap f rog,False
+MarianMT,stable policy environment,3,3,▁stable ▁policy ▁environment,True
+MarianMT,level playing field,3,3,▁level ▁playing ▁field,True
+MarianMT,structure of the industry,4,4,▁structure ▁of ▁the ▁industry,True
+MarianMT,employment in renewable energy,4,4,▁employment ▁in ▁renewable ▁energy,True
+MarianMT,modern energy,2,2,▁modern ▁energy,True
+MarianMT,workforce,1,1,▁workforce,True
+MarianMT,share of employment,3,3,▁share ▁of ▁employment,True
+MarianMT,off-grid renewables,2,6,▁off - g rid ▁renewable s,False
+MarianMT,solar PV industry,3,4,▁solar ▁P V ▁industry,False
+MarianMT,supply chain,2,2,▁supply ▁chain,True
+MarianMT,hydropower,1,1,▁hydropower,True
+MarianMT,skills base,2,2,▁skills ▁base,True
+MarianMT,policy framework,2,2,▁policy ▁framework,True
+MarianMT,key solution,2,2,▁key ▁solution,True
+MarianMT,decisive action,2,2,▁decisive ▁action,True
+MarianMT,Paris Agreement,2,2,▁Paris ▁Agreement,True
+MarianMT,energy transition,2,2,▁energy ▁transition,True
+MarianMT,emission reductions,2,2,▁emission ▁reductions,True
+MarianMT,electrification,1,1,▁electrification,True
+MarianMT,final energy consumption,3,3,▁final ▁energy ▁consumption,True
+MarianMT,least-cost source,2,4,▁least - cost ▁source,False
+MarianMT,commercially available technologies,3,3,▁commercially ▁available ▁technologies,True
+MarianMT,global GDP,2,2,▁global ▁GDP,True
+MarianMT,subsidy,1,1,▁subsidy,True
+MarianMT,energy access,2,2,▁energy ▁access,True
+MarianMT,manufacture and deployment,3,3,▁manufacture ▁and ▁deployment,True
+MarianMT,gender gap,2,2,▁gender ▁gap,True
+MarianMT,Nationally Determined Contributions,3,4,▁National ly ▁Determined ▁Contributions,False
+MarianMT,ambition,1,1,▁ambition,True
+MarianMT,potential,1,1,▁potential,True
+MarianMT,plans and policies,3,3,▁plans ▁and ▁policies,True
+MarianMT,cumulative payoff,2,3,▁cumulative ▁pay off,False
+MarianMT,sustainable economic development,3,3,▁sustainable ▁economic ▁development,True
+MarianMT,supply disruption,2,2,▁supply ▁disruption,True
+MarianMT,distributed renewable energy,3,3,▁distributed ▁renewable ▁energy,True
+MarianMT,hybrid mini-grids,2,6,▁hybrid ▁mini - g rid s,False
+MarianMT,demand response,2,2,▁demand ▁response,True
+MarianMT,time-of-use tariffs,2,6,▁time - of - use ▁tariffs,False
+MarianMT,fiscal measures,2,2,▁fiscal ▁measures,True
+MarianMT,grid infrastructure,2,2,▁grid ▁infrastructure,True
+MarianMT,battery energy storage,3,3,▁battery ▁energy ▁storage,True
+MarianMT,grid enhancement,2,2,▁grid ▁enhancement,True
+MarianMT,renewables-based heating,2,5,▁renewable s - based ▁heating,False
+MarianMT,electric vehicle,2,2,▁electric ▁vehicle,True
+MarianMT,sustainable aviation fuel,3,3,▁sustainable ▁aviation ▁fuel,True
+MarianMT,supportive policy framework,3,3,▁supportive ▁policy ▁framework,True
+MarianMT,domestic supply chains,3,3,▁domestic ▁supply ▁chains,True
+MarianMT,hybridisation of projects,3,4,▁hybrid isation ▁of ▁projects,False
+MarianMT,process heating,2,2,▁process ▁heating,True
+MarianMT,targeted financing,2,2,▁targeted ▁financing,True
+MarianMT,renewable energy targets,3,3,▁renewable ▁energy ▁targets,True
+MarianMT,economics of electricity generation,4,5,▁economic s ▁of ▁electricity ▁generation,False
+MarianMT,insulation from shocks,3,3,▁insulation ▁from ▁shocks,True
+NLLB,access to modern energy services,5,5,▁access ▁to ▁modern ▁energy ▁services,True
+NLLB,renewable energy,2,4,▁rene wa ble ▁energy,False
+NLLB,renewable energy technologies,3,5,▁rene wa ble ▁energy ▁technologies,False
+NLLB,technology transfer,2,2,▁technology ▁transfer,True
+NLLB,hardware,1,1,▁hardware,True
+NLLB,human capital,2,2,▁human ▁capital,True
+NLLB,know-how,1,3,▁know - how,False
+NLLB,adapt,1,1,▁adapt,True
+NLLB,low-carbon innovation centres,3,5,▁low - carbon ▁innovation ▁centres,False
+NLLB,solar PV,2,2,▁solar ▁PV,True
+NLLB,traditional fuels,2,3,▁traditional ▁fu els,False
+NLLB,energy security,2,2,▁energy ▁security,True
+NLLB,RD&D,1,3,▁RD & D,False
+NLLB,government procurement,2,3,▁government ▁procur ement,False
+NLLB,public intervention,2,2,▁public ▁intervention,True
+NLLB,price distortion,2,3,▁price ▁distor tion,False
+NLLB,feed-in tariffs,2,5,▁feed - in ▁tari ffs,False
+NLLB,international financial mechanisms,3,4,▁international ▁financial ▁mechan isms,False
+NLLB,energy efficiency,2,2,▁energy ▁efficiency,True
+NLLB,effective transfer,2,2,▁effective ▁transfer,True
+NLLB,technological progress,2,3,▁technolog ical ▁progress,False
+NLLB,roadmap,1,2,▁road map,False
+NLLB,niche,1,1,▁niche,True
+NLLB,business-as-usual scenario,2,6,▁business - as - usual ▁scenario,False
+NLLB,emissions intensity,2,3,▁emissions ▁intens ity,False
+NLLB,mitigate climate change,3,5,▁mit ig ate ▁climate ▁change,False
+NLLB,global warming,2,3,▁global ▁war ming,False
+NLLB,cost of renewable energy,4,6,▁cost ▁of ▁rene wa ble ▁energy,False
+NLLB,solar photovoltaic systems,3,6,▁solar ▁ph otov olta ic ▁systems,False
+NLLB,grid parity,2,3,▁grid ▁par ity,False
+NLLB,turbine,1,2,▁tur bine,False
+NLLB,wind power,2,2,▁wind ▁power,True
+NLLB,installed power capacity,3,4,▁instal led ▁power ▁capacity,False
+NLLB,reasonable cost,2,2,▁reasonable ▁cost,True
+NLLB,cost of capital,3,3,▁cost ▁of ▁capital,True
+NLLB,crowdfunding,1,3,▁crowd fund ing,False
+NLLB,institutional investors,2,3,▁institution al ▁investors,False
+NLLB,investment in renewable energy,4,6,▁investment ▁in ▁rene wa ble ▁energy,False
+NLLB,public policy,2,2,▁public ▁policy,True
+NLLB,economic benefits,2,2,▁economic ▁benefits,True
+NLLB,direct and indirect jobs,4,4,▁direct ▁and ▁indirect ▁jobs,True
+NLLB,depletion of resources,3,5,▁dep le tion ▁of ▁resources,False
+NLLB,greenhouse gases,2,3,▁green house ▁gases,False
+NLLB,atmospheric CO2 concentration,3,6,▁atmos pher ic ▁CO 2 ▁concentration,False
+NLLB,decentralisation,1,3,▁dec entr alisation,False
+NLLB,energy storage technologies,3,3,▁energy ▁storage ▁technologies,True
+NLLB,leapfrog,1,4,▁le ap fr og,False
+NLLB,stable policy environment,3,3,▁stable ▁policy ▁environment,True
+NLLB,level playing field,3,3,▁level ▁playing ▁field,True
+NLLB,structure of the industry,4,4,▁structure ▁of ▁the ▁industry,True
+NLLB,employment in renewable energy,4,6,▁employment ▁in ▁rene wa ble ▁energy,False
+NLLB,modern energy,2,2,▁modern ▁energy,True
+NLLB,workforce,1,2,▁work force,False
+NLLB,share of employment,3,3,▁share ▁of ▁employment,True
+NLLB,off-grid renewables,2,7,▁off - gr id ▁rene wab les,False
+NLLB,solar PV industry,3,3,▁solar ▁PV ▁industry,True
+NLLB,supply chain,2,2,▁supply ▁chain,True
+NLLB,hydropower,1,3,▁hyd ropo wer,False
+NLLB,skills base,2,2,▁skills ▁base,True
+NLLB,policy framework,2,2,▁policy ▁framework,True
+NLLB,key solution,2,2,▁key ▁solution,True
+NLLB,decisive action,2,3,▁decisi ve ▁action,False
+NLLB,Paris Agreement,2,2,▁Paris ▁Agreement,True
+NLLB,energy transition,2,3,▁energy ▁trans ition,False
+NLLB,emission reductions,2,4,▁emis sion ▁reduc tions,False
+NLLB,electrification,1,3,▁elect ri fication,False
+NLLB,final energy consumption,3,3,▁final ▁energy ▁consumption,True
+NLLB,least-cost source,2,4,▁least - cost ▁source,False
+NLLB,commercially available technologies,3,5,▁commer ci ally ▁available ▁technologies,False
+NLLB,global GDP,2,2,▁global ▁GDP,True
+NLLB,subsidy,1,3,▁sub sid y,False
+NLLB,energy access,2,2,▁energy ▁access,True
+NLLB,manufacture and deployment,3,6,▁manufact ure ▁and ▁dep lo yment,False
+NLLB,gender gap,2,2,▁gender ▁gap,True
+NLLB,Nationally Determined Contributions,3,7,▁Nation ally ▁Det ermin ed ▁Contribu tions,False
+NLLB,ambition,1,2,▁amb ition,False
+NLLB,potential,1,1,▁potential,True
+NLLB,plans and policies,3,3,▁plans ▁and ▁policies,True
+NLLB,cumulative payoff,2,5,▁cum ula tive ▁payo ff,False
+NLLB,sustainable economic development,3,3,▁sustainable ▁economic ▁development,True
+NLLB,supply disruption,2,4,▁supply ▁dis rup tion,False
+NLLB,distributed renewable energy,3,6,▁distribut ed ▁rene wa ble ▁energy,False
+NLLB,hybrid mini-grids,2,5,▁hybrid ▁mini - gr ids,False
+NLLB,demand response,2,2,▁demand ▁response,True
+NLLB,time-of-use tariffs,2,7,▁time - of - use ▁tari ffs,False
+NLLB,fiscal measures,2,2,▁fiscal ▁measures,True
+NLLB,grid infrastructure,2,2,▁grid ▁infrastructure,True
+NLLB,battery energy storage,3,3,▁battery ▁energy ▁storage,True
+NLLB,grid enhancement,2,3,▁grid ▁enhan cement,False
+NLLB,renewables-based heating,2,7,▁rene wab les - based ▁he ating,False
+NLLB,electric vehicle,2,2,▁electric ▁vehicle,True
+NLLB,sustainable aviation fuel,3,4,▁sustainable ▁avi ation ▁fuel,False
+NLLB,supportive policy framework,3,5,▁supp or tive ▁policy ▁framework,False
+NLLB,domestic supply chains,3,4,▁domestic ▁supply ▁cha ins,False
+NLLB,hybridisation of projects,3,4,▁hybrid isation ▁of ▁projects,False
+NLLB,process heating,2,3,▁process ▁he ating,False
+NLLB,targeted financing,2,4,▁target ed ▁finan cing,False
+NLLB,renewable energy targets,3,6,▁rene wa ble ▁energy ▁tar gets,False
+NLLB,economics of electricity generation,4,6,▁econom ics ▁of ▁electric ity ▁generation,False
+NLLB,insulation from shocks,3,5,▁ins ulation ▁from ▁sho cks,False
